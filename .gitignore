@@ -1,0 +1,17 @@
+.mvn/jvm.config
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+target/
+**/jgiven-reports/**
+
+**/local-maven.properties
+
+!.mvn/wrapper/maven-wrapper.jar
+
+backend/jgiven-reports
+
+package-lock.json
+
